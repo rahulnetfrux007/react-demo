@@ -1,4 +1,9 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Update React Package
+Go to project local directory eg.F:\My Working Folder\React\react-demo and run following command
+$ npx npm-check-updates -u
+$ npm install 
 
 ## Available Scripts
 
